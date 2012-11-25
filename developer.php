@@ -149,6 +149,7 @@ class Automattic_Developer {
 				'project_type' => 'wporg-theme',
 				'name'         => esc_html__( 'Theme Test Drive', 'a8c-developer' ),
 				'active'       => is_plugin_active( 'theme-test-drive/themedrive.php' ),
+				'filename'     => 'themedrive.php',
 			),
 			'theme-check' => array(
 				'project_type' => 'wporg-theme',
