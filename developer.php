@@ -140,7 +140,7 @@ class Automattic_Developer {
 				'name'         => esc_html__( 'Regenerate Thumbnails', 'a8c-developer' ),
 				'active'       => false,
 			),
-			'reveal-ids' => array(
+			'reveal-ids-for-wp-admin-25' => array(
 				'project_type' => 'wporg-theme',
 				'name'         => esc_html__( 'Reveal IDs', 'a8c-developer' ),
 				'active'       => false,
